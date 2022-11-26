@@ -134,10 +134,10 @@
         <h1 class="heading" style="font-weight: bold"> <span> contact </span> us </h1>
         <div class="row">
         <from action="welcome.php" method="post">
-            <input type="text" placeholder="name" class="box">
-            <input type="email" placeholder="email" class="box">
-            <input type="number" placeholder="number" class="box">
-            <textarea name="" class="box" placeholder="message" id="" cols="30" rows="10"></textarea>
+            Name : <input type="text" placeholder="name" class="box">
+            Email : <input type="email" placeholder="email" class="box">
+            Number : <input type="number" placeholder="number" class="box">
+            Messege :<textarea name="" class="box" placeholder="message" id="" cols="30" rows="10"></textarea>
             <input type="submit" value="send message" class="btn">
         </form>
         <div class="image">
